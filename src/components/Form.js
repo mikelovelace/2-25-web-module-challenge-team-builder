@@ -26,7 +26,7 @@ function Form(props) {
                     <option value="">-- select role --</option>
                     <option value="instructor">Instructor</option>
                     <option value="student">Student</option>
-                    <option value="tl">Team Leader</option>
+                    <option value="teamleader">Team Leader</option>
                 </select>
 
                 {/* <input type="submit" value="Build your team" /> */}
