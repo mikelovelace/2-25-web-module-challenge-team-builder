@@ -29,7 +29,8 @@ function Form(props) {
                     <option value="tl">Team Leader</option>
                 </select>
 
-                <input type="submit" value="Build your team" />
+                {/* <input type="submit" value="Build your team" /> */}
+                <button>Submit</button>
             </form>
         </div>
     )
